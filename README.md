@@ -2,7 +2,7 @@
  [![][banner-url]][repo-url]  
 
 
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
+[logo-url]: https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica-2.png?raw=true
 [repo-url]: https://yakov-levin.com/
 [banner-url]:https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica.png?raw=true
 

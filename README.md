@@ -42,7 +42,7 @@
 
 
 ## Github Stats  
-<table style ="border-collapse: collapse"><tr><td valign="top" width="50%">
+<table style ="border:0px"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=izyus&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 

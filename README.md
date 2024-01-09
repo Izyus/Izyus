@@ -1,6 +1,6 @@
  **YAKOV LEVIN**  
 <div align="center">  
-<a href="https://telegram.com/izyus" target="_blank">
+<a href="https://t.me/izyus" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/yakov_levin" target="_blank">

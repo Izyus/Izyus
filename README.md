@@ -19,7 +19,7 @@
 
 
 ### Glad to see you here!  
-<p style="margin-bottom: 500px;">Now I just moved to Israel and am actively looking for work. Now is the best time for me to start using my programming knowledge to create excellent web applications.<p>  
+<p>Now I just moved to Israel and am actively looking for work. Now is the best time for me to start using my programming knowledge to create excellent web applications.<p>  
   
 
 <br/>  

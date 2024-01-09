@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://ibb.co/9TQV4hz" align="center" style="width: 100%" />
-</div>  
+[url=https://ibb.co/9TQV4hz][img]https://i.ibb.co/9TQV4hz/papyrus-scroll-royal-banner-paper-parchment-with-old-texture-isolated-on-background-vector-illustrat.png[/img][/url]
   
 
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  

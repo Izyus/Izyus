@@ -1,5 +1,5 @@
  **YAKOV LEVIN**  
-<div align="center">  
+<div align="center" style="border=1px">  
 <a href="https://t.me/izyus" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -10,7 +10,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.vk.com/yakov_levin" target="_blank">
-<img src=https://img.shields.io/badge/VK-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vkontakte style="margin-bottom: 50px;border-radius:10px" />
+<img src=https://img.shields.io/badge/VK-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vkontakte style="border: 150px 10px;" />
 </a>
 
   
@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-<p>Now I just moved to Israel and am actively looking for work. Now is the best time for me to start using my programming knowledge to create excellent web applications.<p>  
+<p style="margin:100px">Now I just moved to Israel and am actively looking for work. Now is the best time for me to start using my programming knowledge to create excellent web applications.<p>  
   
 
 <br/>  

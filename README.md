@@ -1,4 +1,11 @@
- **YAKOV LEVIN**  
+
+ [![][banner-url]][repo-url]  
+
+
+[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
+[repo-url]: https://yakov-levin.com/
+[banner-url]:https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica.png?raw=true
+
 <div align="center" style="border=1px">  
 <a href="https://t.me/izyus" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -39,7 +46,12 @@
 </div>  
 
 <br/>  
+[![][banner-url]][repo-url]  
 
+
+[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
+[repo-url]: https://daisyui.com/
+[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
 
 ## Github Stats  
 <table style ="border:0px"><tr><td valign="top" width="50%">
@@ -67,3 +79,4 @@
 <br />
 
 </div>
+

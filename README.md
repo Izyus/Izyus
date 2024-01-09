@@ -1,4 +1,4 @@
-### Hi there 👋
+### YAKOV LEVIN
 My name is Yakov.
 <br>
 I'm a Frontend Developer.

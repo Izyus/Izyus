@@ -29,7 +29,8 @@
   
 
 <br/>  
-
+## Web Development
+<p>Javascript, Node.js, MongoDB, Redis, PostgreSQL, WebStorm.</p>
 
  
 <div align="center">  

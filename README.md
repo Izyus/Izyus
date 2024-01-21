@@ -26,11 +26,9 @@
 
 ### Glad to see you here!  
 <p style="margin:100px">Now I just moved to Israel and am actively looking for work. Now is the best time for me to start using my programming knowledge to create excellent web applications.<p>  
-  
 
 <br/>  
-## Web Development
-<p>Javascript, Node.js, MongoDB, Redis, PostgreSQL, WebStorm.</p>
+
 
  
 <div align="center">  

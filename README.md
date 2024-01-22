@@ -3,7 +3,7 @@
 
 
 [logo-url]: https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica-2.png?raw=true
-[repo-url]: https://yakov-levin.com/
+[repo-url]: https://career.habr.com/izyus
 [banner-url]:https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica.png?raw=true
 [banner2-url]:https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica-3.png?raw=true
 [banner3-url]:https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica-4.png?raw=true

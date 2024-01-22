@@ -29,9 +29,16 @@
 ### Glad to see you here!  
 <p style="margin:100px">Now I just moved to Israel and am actively looking for work. Now is the best time for me to start using my programming knowledge to create excellent web applications.<p>  
 
-<br/>  
+
 
 [![][banner2-url]][repo-url] 
+| Web Development  | Frontend Development  | UI\UX Design |
+|:------------- |:---------------:| -------------:|
+| Javascript, JAVA, Node.js, MongoDB, Redis, PostgreSQL.      | HTML, CSS, LESS, SASS, Bootstrap, Wordpress, React. |  Photoshop, Illustrator, Sketch, Axure, XMind, Prototyping. |
+
+ 
+
+
 [![][banner3-url]][repo-url] 
  
 <div align="center">  

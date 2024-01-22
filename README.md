@@ -5,6 +5,8 @@
 [logo-url]: https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica-2.png?raw=true
 [repo-url]: https://yakov-levin.com/
 [banner-url]:https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica.png?raw=true
+[banner2-url]:https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica-3.png?raw=true
+[banner3-url]:https://github.com/Izyus/Izyus/blob/main/rounded-in-photoretrica-4.png?raw=true
 
 <div align="center" style="border=1px">  
 <a href="https://t.me/izyus" target="_blank">
@@ -29,7 +31,8 @@
 
 <br/>  
 
-
+[![][banner2-url]][repo-url] 
+[![][banner3-url]][repo-url] 
  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
